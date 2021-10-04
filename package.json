@@ -1,0 +1,19 @@
+{
+  "name": "@arpit-maheshwari2/test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-maheshwari2/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit-maheshwari2/test-package/issues"
+  },
+  "homepage": "https://github.com/arpit-maheshwari2/test-package#readme"
+}
