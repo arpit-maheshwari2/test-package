@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arpit-maheshwari2/test-package/issues"
   },
-  "homepage": "https://github.com/arpit-maheshwari2/test-package#readme"
+  "homepage": "https://github.com/arpit-maheshwari2/test-package#readme",
+  "publishConfig": {
+    "@arpit-maheshwari2:registry": "https://npm.pkg.github.com"
+  }
 }
